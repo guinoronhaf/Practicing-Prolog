@@ -1,0 +1,2 @@
+# Practicing-Prolog
+Prolog practices
